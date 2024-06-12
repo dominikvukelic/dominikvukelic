@@ -4,13 +4,13 @@
 
 🧰 Toolbox:
    - Languages: 
-       - [Python](https://img.icons8.com/color/48/000000/python.png) Python
-       - [R](https://img.icons8.com/color/48/000000/r-programming.png) R
+       - Python
+       - R
    - Tools: 
-       - [VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code
-       - [R Studio](https://img.icons8.com/color/48/000000/r.png) R Studio
-       - [SSMS](https://img.icons8.com/color/48/000000/sql-server.png) SQL Server Management Studio (SSMS)
-       - [MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL Workbench
+       - VS Code
+       - R Studio
+       - SQL Server Management Studio (SSMS)
+       - MySQL Workbench
    - Databases: SQL
 
 🎶 Hobbies:
